@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fazendo Exercicios</string>
+    <string name="title_activity_2">Activity2</string>
+    <string name="title_activity_3">Activity3</string>
+    <string name="title_activity_ex01">Ex01</string>
+    <string name="title_activity_ex02">Ex02</string>
+    <string name="title_activity_ex03">ex03</string>
+</resources>
